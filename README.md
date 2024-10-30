@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavik Chauhan</h1>
 <h3 align="center">Technical Support Engineer and ISTQB Certified Software Tester</h3>
 
-- 🔭 I’m currently working on **Building sample repos to demonstrate skills**
-
 - 🌱 I’m currently learning **Docker, Kubernetes, Golang, CI/CD tools (Jenkins)**
 
 <h3 align="left">Connect with me:</h3>
